@@ -4,8 +4,8 @@
 
 ### 我叫韋羲Nick West。 僕はウエスト◈ニック。
 
-a github haiku
-may need only one commit
+a github haiku <br/>
+may need only one commit<br/>
 and only one push
 
 <!--
