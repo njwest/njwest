@@ -2,12 +2,7 @@
 
 # 你好 😉 
 
-### 我叫韋羲Nick West。 僕はウエスト◈ニック。Wilkommen. Bienvenido a mi github!
-
-Please enjoy some of my Elixir, React Native, VueJS, and Web3JS code. 
-
-Feel free to 🍴 and ⭐!
-
+### 我叫韋羲Nick West。 僕はウエスト◈ニック
 
 <!--
 **njwest/njwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
