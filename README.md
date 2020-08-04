@@ -2,7 +2,11 @@
 
 # 你好 😉 
 
-### 我叫韋羲Nick West。 僕はウエスト◈ニック
+### 我叫韋羲Nick West。 僕はウエスト◈ニック。
+
+a github haiku
+may need only one commit
+and only one push
 
 <!--
 **njwest/njwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
