@@ -1,9 +1,5 @@
 ![Nick West, Hong Kong](https://i.imgur.com/gippVfX.png)
 
-# 你好 😉 
-
-### 我叫韋羲Nick West。 僕はウエスト◈ニック。
-
 a github haiku <br/>
 may need only one commit<br/>
 and only one push
