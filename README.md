@@ -4,7 +4,7 @@ a github haiku <br/>
 may need only one commit<br/>
 and only one push
 
-- Nick West
+Nick West
 
 <!--
 **njwest/njwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
