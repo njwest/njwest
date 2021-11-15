@@ -1,10 +1,10 @@
 ![Nick West, Hong Kong](https://i.imgur.com/gippVfX.png)
 
+Hi, I am Nick West 韋羲。Have a haiku:
+
 a github haiku <br/>
 may need only one commit<br/>
 and only one push
-
-Nick West
 
 <!--
 **njwest/njwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
