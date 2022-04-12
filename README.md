@@ -6,7 +6,11 @@ Have a haiku:
 
 a github haiku <br/>
 may need only one commit<br/>
-and only one push
+and only one push.
+
+my path lit neon<br/>
+green with contributions,<br/>
+shadow weaving smooth.
 
 <!--
 **njwest/njwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
