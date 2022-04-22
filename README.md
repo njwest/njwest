@@ -10,7 +10,7 @@ and only one push.
 
 my path lit neon<br/>
 green with contributions,<br/>
-shadow weaving smooth.
+smooth shadow weaving.
 
 <!--
 **njwest/njwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
