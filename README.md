@@ -12,6 +12,8 @@ my path lit neon<br/>
 green with contributions,<br/>
 smooth shadow weaving.
 
+Note: This is my account for public repos :P :dragon:
+
 <!--
 **njwest/njwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
