@@ -1,6 +1,6 @@
 Hi, I am Nick West 韋羲。
 
-a haiku:
+A haiku:
 
 a github haiku <br/>
 may need only one commit<br/>
