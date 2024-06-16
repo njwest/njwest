@@ -1,8 +1,6 @@
-![Nick West, Hong Kong](https://i.imgur.com/gippVfX.png)
-
 Hi, I am Nick West 韋羲。
 
-Have a haiku:
+a haiku:
 
 a github haiku <br/>
 may need only one commit<br/>
